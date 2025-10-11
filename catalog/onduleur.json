@@ -1,0 +1,47 @@
+  {"onduleurs": [
+    {
+      "name": "SolaX X1-MINI-2.0K-G4",
+      "capacity_solution": "2 kW",
+      "price_solution": 5500
+    },
+    {
+      "name": "SolaX X1-MINI-3.0K-G4",
+      "capacity_solution": "3 kW",
+      "price_solution": 6000
+    },
+    {
+      "name": "SolaX X1-BOOST-4.2KW-G4",
+      "capacity_solution": "4.2 kW",
+      "price_solution": 8100
+    },
+    {
+      "name": "SolaX X1-BOOST-5.0KW-G4",
+      "capacity_solution": "5 kW",
+      "price_solution": 9200
+    },
+    {
+      "name": "Sungrow SG2.0RS (On-Grid)",
+      "capacity_solution": "2 kW",
+      "price_solution": 9800
+    },
+    {
+      "name": "Sungrow SG3.0RS (On-Grid)",
+      "capacity_solution": "3 kW",
+      "price_solution": 8200
+    },
+    {
+      "name": "Sungrow SG5.0RS",
+      "capacity_solution": "5 kW",
+      "price_solution": 10400
+    },
+    {
+      "name": "SolaX X3-MIC-8KW-G2",
+      "capacity_solution": "8 kW",
+      "price_solution": 13800
+    },
+    {
+      "name": "SolaX X3-MIC-10KW-G2",
+      "capacity_solution": "10 kW",
+      "price_solution": 15100
+    }
+  ]}

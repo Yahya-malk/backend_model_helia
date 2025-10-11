@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Chauffe-eau solaire ECONOMY 150L",
+    "category": "Chauffage",
+    "capacity": "150L"
+  },
+  {
+    "id": 2,
+    "name": "Chauffe-eau solaire ECONOMY 200L",
+    "category": "Chauffage",
+    "capacity": "200L"
+  },
+  {
+    "id": 3,
+    "name": "Chauffe-eau solaire ECONOMY 300L",
+    "category": "Chauffage",
+    "capacity": "300L"
+  },
+  {
+    "id": 4,
+    "name": "Chauffe-eau solaire PRESSURISE 400L",
+    "category": "Chauffage",
+    "capacity": "400L"
+  },
+  {
+    "id": 5,
+    "name": "Chauffe-eau solaire PRESSURISE 500L",
+    "category": "Chauffage",
+    "capacity": "00L"
+  }
+]

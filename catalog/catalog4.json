@@ -1,0 +1,43 @@
+{
+  "panneaux": [
+    {
+      "id": "JHM6/66H-610M",
+      "nom": "INWO SOLAR 610W - TOPCon Monocristallin",
+      "puissance_W": 610,
+      "prix_MAD": 880
+    }
+  
+  ],
+  "batteries": [
+    { "id": "Elitec-El10",   "nom": "Elitec Lithium 4.8 kWh 48 V",   "capacite_kWh": 4.8,  "prix_MAD": 16500 },
+    { "id": "BAT-GEL150",    "nom": "OUTDO GEL 150 Ah 12 V",         "capacite_Ah": 150,   "prix_MAD": 2300 },
+    { "id": "BAT-GEL270",    "nom": "OUTDO GEL 270 Ah 12 V",         "capacite_Ah": 270,   "prix_MAD": 3600 },
+    { "id": "ELITEC-EH5",    "nom": "Elitec EH Série Lithium 5.12 kWh", "capacite_kWh": 5.12, "prix_MAD": 20700 }
+  ],
+  "kits_off_grid": [
+    {
+      "id": "KSOF1.5K12V",
+      "nom": "Kit Off-Grid 1.5 kW 12 V",
+      "prix_MAD": 19000,
+      "composition": {
+        "panneaux":  { "nombre": 4, "puissance_individuelle_W": 425 },
+        "onduleur":  { "puissance_W": 1500, "voltage_V": 12 },
+        "batterie":  { "type": "GEL", "capacite_Ah": 150, "nombre": 2 },
+        "regulateur": "PWM 30A",
+        "structure":  "acier galvanisé"
+      }
+    },
+    {
+      "id": "KSOF3K24V",
+      "nom": "Kit Off-Grid 3 kW 24 V",
+      "prix_MAD": 32000,
+      "composition": {
+        "panneaux":  { "nombre": 6, "puissance_individuelle_W": 425 },
+        "onduleur":  { "puissance_W": 3000, "voltage_V": 24 },
+        "batterie":  { "type": "GEL", "capacite_Ah": 270, "nombre": 2 },
+        "regulateur": "PWM 30A",
+        "structure":  "acier galvanisé"
+      }
+    }
+  ]
+}

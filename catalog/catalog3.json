@@ -1,0 +1,40 @@
+{
+  "kit_on_grid": [
+    {
+      "name": "Kit On-Grid 2 kW",
+      "capacity_solution": "2 kW",
+      "price_solution": 20000
+    },
+   
+    {
+      "name": "Kit On-Grid 5 kW",
+      "capacity_solution": "5 kW",
+      "price_solution": 42000
+    },
+    {
+      "name": "Kit On-Grid 7.5 kW",
+      "capacity_solution": "7.5 kW",
+      "price_solution": 62000
+    }
+  ],
+
+  "panneaux": [
+    {
+      "name": "Panneau solaire 610 W",
+      "capacity_solution": "0.61 kW",
+      "price_solution": 880
+    }
+  ],
+
+  "compteurs_bidirectionnels": [
+    {
+      "name": "Compteur bidirectionnel monophasé",
+      "price_solution": 2500
+    },
+  
+    {
+      "name": "Compteur bidirectionnel industriel",
+      "price_solution": 6000
+    }
+  ]
+}

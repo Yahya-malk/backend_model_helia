@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Kit de pompage solaire 220 V 1.5–3 CV",
+    "voltage": "220 V",
+    "power": "1.5–3 CV",
+    "price": "33 700 MAD"
+  },
+  {
+    "name": "Kit de pompage solaire 380 V 3 CV",
+    "voltage": "380 V",
+    "power": "3 CV",
+    "price": "40 000 MAD"
+  },
+  {
+    "name": "Kit de pompage solaire 380 V 4–5.5 CV",
+    "voltage": "380 V",
+    "power": "4–5.5 CV",
+    "price": "49 000 MAD"
+  },
+  {
+    "name": "Kit de pompage solaire 220 V 2–3 CV",
+    "voltage": "220 V",
+    "power": "2–3 CV",
+    "price": "22 000 MAD"
+  },
+  {
+    "name": "Kit de pompage solaire 380 V 7.5 CV",
+    "voltage": "380 V",
+    "power": "7.5 CV",
+    "price": "41 000 MAD"
+  },
+  {
+    "name": "Kit de pompage solaire 380 V 10 CV",
+    "voltage": "380 V",
+    "power": "10 CV",
+    "price": "50 000 MAD"
+  }
+]
