@@ -8,6 +8,9 @@ from fastapi.middleware.cors import CORSMiddleware
 from model.RL_model import agent_
 from model.RL_model2 import agent_2
 from openai import OpenAI
+import os
+from dotenv import load_dotenv
+GITHUB_TOKEN=os.getenv('token')
 
 catalog_pompage = [
   {"name": "Kit de pompage solaire 220 V 1.5–3 CV", "voltage": "220 V", "power": 3, "price": "33 700 MAD"},
@@ -17,8 +20,7 @@ catalog_pompage = [
   {"name": "Kit de pompage solaire 380 V 10 CV", "voltage": "380 V", "power": 10, "price": "50 000 MAD"},
   {"name": "Kit de pompage solaire 380 V 15 CV", "voltage": "380 V", "power": 15, "price": "66 900 MAD"}
 ]
-GITHUB_TOKEN = "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"
-ENDPOINT = "https://models.github.ai/inference"
+
 MODEL = "openai/gpt-4.1"
 with open("catalog/catalog3.json", "r") as f:
     catalog_On = json.load(f)
